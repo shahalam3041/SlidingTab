@@ -31,4 +31,6 @@ public class MainActivity extends AppCompatActivity implements TabOne.OnFragment
     public void onFragmentInteraction(Uri uri) {
 
     }
+
+    // Added a new comment
 }
